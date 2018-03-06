@@ -1,1 +1,1 @@
-TODO: Reflect on what you learned this week and what is still unclear.
+I learned how to debug on vscode and how to print words. I also learned that I cant have a space in my codes. I still dont really understand what we are doing, but are eager to learn more. 
